@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# build destination
+build/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Optional eslint cache
+.eslintcache
+
